@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/columns-block" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/google-map-block" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/kne-blocks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/latest-posts-block" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/section-container-block" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/splash-block" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/svg-block" vcs="Git" />
+  </component>
+</project>

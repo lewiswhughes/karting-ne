@@ -1,11 +1,3 @@
 */.DS_Store
 .DS_Store
 node_modules
-wp-admin
-wp-includes
-db-data
-secrets
-wp-content/plugins
-wp-content/uploads
-wp-config.php
-.htaccess

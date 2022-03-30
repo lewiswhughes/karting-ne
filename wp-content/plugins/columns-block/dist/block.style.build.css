@@ -1,0 +1,3 @@
+h1,p{z-index:3;position:relative}section.columns{width:100%;display:flex;flex-direction:row;align-items:center;justify-content:center;flex-wrap:wrap}section.columns>div{flex-basis:50%;flex-grow:1;padding:0 1rem}section.columns>div:first-child{padding-left:0rem}section.columns>div:last-child{padding-right:0rem}
+
+/*# sourceMappingURL=block.style.build.css.map*/

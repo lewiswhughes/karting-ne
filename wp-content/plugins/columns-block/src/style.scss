@@ -1,0 +1,25 @@
+@import './common.scss';
+
+section.columns{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap; 
+
+  >div{
+    //default 2-col
+    flex-basis: 50%;
+    flex-grow: 1;
+    padding: 0 1rem;
+
+    &:first-child{
+        padding-left: 0rem;
+      }
+      &:last-child{
+        padding-right: 0rem;
+      }
+  }
+
+}

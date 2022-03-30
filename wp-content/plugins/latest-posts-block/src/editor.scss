@@ -1,0 +1,12 @@
+@import './common.scss';
+
+.wp-block { // This may need to be .wp-block in WordPress 5+
+
+  //the editor wrapper
+  &[data-type="kne/latest-posts-block"]{
+    margin: 1rem;
+    max-width: 100%;
+
+
+  }
+}

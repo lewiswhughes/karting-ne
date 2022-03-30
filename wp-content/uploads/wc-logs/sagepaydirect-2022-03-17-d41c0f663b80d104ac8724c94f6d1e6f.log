@@ -1,0 +1,424 @@
+03-17-2022 @ 06:20:49 - 
+03-17-2022 @ 06:20:49 - =============================================
+03-17-2022 @ 06:20:49 - 
+03-17-2022 @ 06:20:49 - SagePay Log
+03-17-2022 @ 06:20:49 - 17 Mar 2022, 06:20:49
+03-17-2022 @ 06:20:49 - 
+03-17-2022 @ 06:20:49 - =============================================
+03-17-2022 @ 06:20:49 - Sent to Opayo : 
+03-17-2022 @ 06:20:49 - Array
+(
+    [DATA] => Array
+        (
+            [VPSProtocol] => 4.00
+            [TxType] => PAYMENT
+            [Vendor] => kartingnortheas
+            [VendorTxCode] => kne_wc_6232d340a6bd2-21382-0195b5a70fed7
+            [Amount] => 156.00
+            [Currency] => GBP
+            [Description] => Order 21382
+            [BillingSurname] => Riordan
+            [BillingFirstnames] => Shaun
+            [BillingCompany] => 
+            [BillingAddress1] => 13
+            [BillingAddress2] => 
+            [BillingCity] => Aiskew
+            [BillingPostCode] => DL8 1EA
+            [BillingCountry] => GB
+            [BillingState] => 
+            [BillingPhone] => 07523048939
+            [DeliverySurname] => Riordan
+            [DeliveryFirstnames] => Shaun
+            [DeliveryAddress1] => 13
+            [DeliveryAddress2] => 
+            [DeliveryCity] => Aiskew
+            [DeliveryPostCode] => DL8 1EA
+            [DeliveryCountry] => GB
+            [DeliveryState] => 
+            [DeliveryPhone] => 07523048939
+            [CustomerEMail] => shaunriordanjt@outlook.com
+            [ClientIPAddress] => 94.3.182.41
+            [AccountType] => E
+            [ReferrerID] => F4D0E135-F056-449E-99E0-EC59917923E1
+            [Website] => https://kartingnortheast.com
+            [BrowserJavascriptEnabled] => 1
+            [BrowserJavaEnabled] => 0
+            [BrowserColorDepth] => 32
+            [BrowserScreenHeight] => 844
+            [BrowserScreenWidth] => 390
+            [BrowserTZ] => 0
+            [BrowserAcceptHeader] => application/json, text/javascript, */*; q=0.01
+            [BrowserLanguage] => en-GB
+            [BrowserUserAgent] => Mozilla/5.0 (iPhone; CPU iPhone OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.59 Mobile/15E148 Safari/604.1
+            [ThreeDSNotificationURL] => https://kartingnortheast.com/checkout/order-pay/21382/?key=wc_order_6232d340a6bd2&threedsecure=kne_wc_6232d340a6bd2-21382-0195b5a70fed7
+            [ChallengeWindowSize] => 02
+            [TransType] => 01
+            [VendorData] => 
+            [CardHolder] => Shaun Riordan
+            [CardNumber] => 5196********0826
+            [ExpiryDate] => 0524
+            [CV2] => ***
+            [CardType] => MC
+            [ApplyAVSCV2] => 0
+            [Apply3DSecure] => 0
+        )
+
+    [URL] => https://live.sagepay.com/gateway/service/vspdirect-register.vsp
+)
+
+03-17-2022 @ 06:20:49 - =============================================
+03-17-2022 @ 06:20:50 - =============================================
+03-17-2022 @ 06:20:50 - Opayo Direct Return : 
+03-17-2022 @ 06:20:50 - VPSProtocol=4.00
+Status=3DAUTH
+StatusDetail=2021 : Please redirect your customer to the ACSURL, passing CReq.
+VPSTxId={100E6727-3E9C-8E84-F6C9-5F63433FE502}
+3DSecureStatus=OK
+ACSURL=https://tsys.arcot.com/content-server/api/tds2/txn/browser/v1/creq
+CReq=ewogICJtZXNzYWdlVHlwZSIgOiAiQ1JlcSIsCiAgIm1lc3NhZ2VWZXJzaW9uIiA6ICIyLjEuMCIsCiAgInRocmVlRFNTZXJ2ZXJUcmFuc0lEIiA6ICJmNzcyZjMzNS02ZDY0LTRmYjYtYWFjNC1lM2ZmNWVlODQ3MWEiLAogICJhY3NUcmFuc0lEIiA6ICJmMTZiYTJhNi1jYjViLTQ0MjYtODJjNS1iNWJhMzQ4MTdlODAiLAogICJjaGFsbGVuZ2VXaW5kb3dTaXplIiA6ICIwMiIKfQ
+ACSTransID=f16ba2a6-cb5b-4426-82c5-b5ba34817e80
+DSTransID=9c25e635-ab08-4ad9-aab3-6abcfe81db37
+03-17-2022 @ 06:20:50 - =============================================
+03-17-2022 @ 06:21:20 - 
+03-17-2022 @ 06:21:20 - =============================================
+03-17-2022 @ 06:21:20 - 
+03-17-2022 @ 06:21:20 - SagePay Log
+03-17-2022 @ 06:21:20 - 17 Mar 2022, 06:21:20
+03-17-2022 @ 06:21:20 - 
+03-17-2022 @ 06:21:20 - =============================================
+03-17-2022 @ 06:21:20 - Sent to Opayo : 
+03-17-2022 @ 06:21:20 - Array
+(
+    [DATA] => Array
+        (
+            [CRes] => eyJ0aHJlZURTU2VydmVyVHJhbnNJRCI6ImY3NzJmMzM1LTZkNjQtNGZiNi1hYWM0LWUzZmY1ZWU4NDcxYSIsImFjc1RyYW5zSUQiOiJmMTZiYTJhNi1jYjViLTQ0MjYtODJjNS1iNWJhMzQ4MTdlODAiLCJtZXNzYWdlVHlwZSI6IkNSZXMiLCJtZXNzYWdlVmVyc2lvbiI6IjIuMS4wIiwidHJhbnNTdGF0dXMiOiJZIn0
+            [VPSTxId] => {100E6727-3E9C-8E84-F6C9-5F63433FE502}
+        )
+
+    [URL] => https://live.sagepay.com/gateway/service/direct3dcallback.vsp
+)
+
+03-17-2022 @ 06:21:20 - =============================================
+03-17-2022 @ 06:21:21 - =============================================
+03-17-2022 @ 06:21:21 - Opayo Direct Return : 
+03-17-2022 @ 06:21:21 - VPSProtocol=4.00
+Status=OK
+StatusDetail=0000 : The Authorisation was Successful.
+VPSTxId={100E6727-3E9C-8E84-F6C9-5F63433FE502}
+SecurityKey=NYK35CDDLR
+TxAuthNo=819961152
+AVSCV2=ALL MATCH
+AddressResult=MATCHED
+PostCodeResult=MATCHED
+CV2Result=MATCHED
+3DSecureStatus=OK
+CAVV=kBNgARG2DHf/7zgkeFWJqIJhu3FD
+DeclineCode=00
+ExpiryDate=0524
+BankAuthCode=036419
+ACSTransID=f16ba2a6-cb5b-4426-82c5-b5ba34817e80
+DSTransID=9c25e635-ab08-4ad9-aab3-6abcfe81db37
+SchemeTraceID=MCS34YOF30317  
+03-17-2022 @ 06:21:21 - =============================================
+03-17-2022 @ 09:27:38 - 
+03-17-2022 @ 09:27:38 - =============================================
+03-17-2022 @ 09:27:38 - 
+03-17-2022 @ 09:27:38 - SagePay Log
+03-17-2022 @ 09:27:38 - 17 Mar 2022, 09:27:38
+03-17-2022 @ 09:27:38 - 
+03-17-2022 @ 09:27:38 - =============================================
+03-17-2022 @ 09:27:38 - Sent to Opayo : 
+03-17-2022 @ 09:27:38 - Array
+(
+    [DATA] => Array
+        (
+            [VPSProtocol] => 4.00
+            [TxType] => PAYMENT
+            [Vendor] => kartingnortheas
+            [VendorTxCode] => kne_wc_6232ff0a68cfb-21384-086ed1fad829e
+            [Amount] => 212.00
+            [Currency] => GBP
+            [Description] => Order 21384
+            [BillingSurname] => Ahad
+            [BillingFirstnames] => Abdul-Wahid
+            [BillingCompany] => 
+            [BillingAddress1] => 120 Stanton Street
+            [BillingAddress2] => 
+            [BillingCity] => Newcastle upon Tyne
+            [BillingPostCode] => NE4 5LE
+            [BillingCountry] => GB
+            [BillingState] => 
+            [BillingPhone] => 07375604393
+            [DeliverySurname] => Ahad
+            [DeliveryFirstnames] => Abdul-Wahid
+            [DeliveryAddress1] => 120 Stanton Street
+            [DeliveryAddress2] => 
+            [DeliveryCity] => Newcastle upon Tyne
+            [DeliveryPostCode] => NE4 5LE
+            [DeliveryCountry] => GB
+            [DeliveryState] => 
+            [DeliveryPhone] => 07375604393
+            [CustomerEMail] => abdulwahidahad2017@gmail.com
+            [ClientIPAddress] => 176.250.49.133
+            [AccountType] => E
+            [ReferrerID] => F4D0E135-F056-449E-99E0-EC59917923E1
+            [Website] => https://kartingnortheast.com
+            [BrowserJavascriptEnabled] => 1
+            [BrowserJavaEnabled] => 0
+            [BrowserColorDepth] => 24
+            [BrowserScreenHeight] => 869
+            [BrowserScreenWidth] => 412
+            [BrowserTZ] => 0
+            [BrowserAcceptHeader] => application/json, text/javascript, */*; q=0.01
+            [BrowserLanguage] => en-GB
+            [BrowserUserAgent] => Mozilla/5.0 (Linux; Android 12; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.73 Mobile Safari/537.36
+            [ThreeDSNotificationURL] => https://kartingnortheast.com/checkout/order-pay/21384/?key=wc_order_6232ff0a68cfb&threedsecure=kne_wc_6232ff0a68cfb-21384-086ed1fad829e
+            [ChallengeWindowSize] => 03
+            [TransType] => 01
+            [VendorData] => 
+            [CardHolder] => Abdul-Wahid Ahad
+            [CardNumber] => 4929********5006
+            [ExpiryDate] => 0226
+            [CV2] => ***
+            [CardType] => VISA
+            [ApplyAVSCV2] => 0
+            [Apply3DSecure] => 0
+        )
+
+    [URL] => https://live.sagepay.com/gateway/service/vspdirect-register.vsp
+)
+
+03-17-2022 @ 09:27:38 - =============================================
+03-17-2022 @ 09:27:40 - =============================================
+03-17-2022 @ 09:27:40 - Opayo Direct Return : 
+03-17-2022 @ 09:27:40 - VPSProtocol=4.00
+Status=OK
+StatusDetail=0000 : The Authorisation was Successful.
+VPSTxId={7FD0933C-9E8B-7CD5-9074-2489EF15481A}
+SecurityKey=VITUXAHWGN
+TxAuthNo=820036891
+AVSCV2=ALL MATCH
+AddressResult=MATCHED
+PostCodeResult=MATCHED
+CV2Result=MATCHED
+3DSecureStatus=OK
+CAVV=AJkBBRNGeQAAAFLQgmB2dQAAAAA=
+DeclineCode=00
+ExpiryDate=0226
+BankAuthCode=027409
+ACSTransID=93ed8812-19cd-436e-98bc-3735824a7d71
+DSTransID=a19745ac-c908-42ac-b50b-cc833a20ca3d
+SchemeTraceID=482076340607782
+03-17-2022 @ 09:27:40 - =============================================
+03-17-2022 @ 15:34:49 - 
+03-17-2022 @ 15:34:49 - =============================================
+03-17-2022 @ 15:34:49 - 
+03-17-2022 @ 15:34:49 - SagePay Log
+03-17-2022 @ 15:34:49 - 17 Mar 2022, 15:34:49
+03-17-2022 @ 15:34:49 - 
+03-17-2022 @ 15:34:49 - =============================================
+03-17-2022 @ 15:34:49 - Sent to Opayo : 
+03-17-2022 @ 15:34:49 - Array
+(
+    [DATA] => Array
+        (
+            [VPSProtocol] => 4.00
+            [TxType] => PAYMENT
+            [Vendor] => kartingnortheas
+            [VendorTxCode] => kne_wc_6233551903c37-21388-dd3c0d5e5b750
+            [Amount] => 318.00
+            [Currency] => GBP
+            [Description] => Order 21388
+            [BillingSurname] => Armstrong
+            [BillingFirstnames] => Chloe
+            [BillingCompany] => 
+            [BillingAddress1] => 19 Lee Avenue
+            [BillingAddress2] => 
+            [BillingCity] => Shilbottle
+            [BillingPostCode] => NE66 2UW
+            [BillingCountry] => GB
+            [BillingState] => 
+            [BillingPhone] => 07507345230
+            [DeliverySurname] => Armstrong
+            [DeliveryFirstnames] => Chloe
+            [DeliveryAddress1] => 19 Lee Avenue
+            [DeliveryAddress2] => 
+            [DeliveryCity] => Shilbottle
+            [DeliveryPostCode] => NE66 2UW
+            [DeliveryCountry] => GB
+            [DeliveryState] => 
+            [DeliveryPhone] => 07507345230
+            [CustomerEMail] => chloeloui@hotmail.co.uk
+            [ClientIPAddress] => 195.99.0.202
+            [AccountType] => E
+            [ReferrerID] => F4D0E135-F056-449E-99E0-EC59917923E1
+            [Website] => https://kartingnortheast.com
+            [BrowserJavascriptEnabled] => 1
+            [BrowserJavaEnabled] => 0
+            [BrowserColorDepth] => 32
+            [BrowserScreenHeight] => 812
+            [BrowserScreenWidth] => 375
+            [BrowserTZ] => 0
+            [BrowserAcceptHeader] => application/json, text/javascript, */*; q=0.01
+            [BrowserLanguage] => en-GB
+            [BrowserUserAgent] => Mozilla/5.0 (iPhone; CPU iPhone OS 15_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Mobile/15E148 Safari/604.1
+            [ThreeDSNotificationURL] => https://kartingnortheast.com/checkout/order-pay/21388/?key=wc_order_6233551903c37&threedsecure=kne_wc_6233551903c37-21388-dd3c0d5e5b750
+            [ChallengeWindowSize] => 02
+            [TransType] => 01
+            [VendorData] => 
+            [CardHolder] => Chloe Armstrong
+            [CardNumber] => 4921********0426
+            [ExpiryDate] => 0924
+            [CV2] => ***
+            [CardType] => VISA
+            [ApplyAVSCV2] => 0
+            [Apply3DSecure] => 0
+        )
+
+    [URL] => https://live.sagepay.com/gateway/service/vspdirect-register.vsp
+)
+
+03-17-2022 @ 15:34:49 - =============================================
+03-17-2022 @ 15:34:50 - =============================================
+03-17-2022 @ 15:34:50 - Opayo Direct Return : 
+03-17-2022 @ 15:34:50 - VPSProtocol=4.00
+Status=3DAUTH
+StatusDetail=2021 : Please redirect your customer to the ACSURL, passing CReq.
+VPSTxId={C86E7260-6BCB-371D-14A5-585548F73229}
+3DSecureStatus=OK
+ACSURL=https://www.rsa3dsauth.co.uk/3ds2/LbgRedirectChallenge?issuer=lloyds
+CReq=ewogICJtZXNzYWdlVHlwZSIgOiAiQ1JlcSIsCiAgIm1lc3NhZ2VWZXJzaW9uIiA6ICIyLjIuMCIsCiAgInRocmVlRFNTZXJ2ZXJUcmFuc0lEIiA6ICI1Y2E1NGM5ZS0wMGQxLTRiNzUtOTFjOS0xNzdhMjNiNzQ5ZmEiLAogICJhY3NUcmFuc0lEIiA6ICI1MTAxYjg0MC1iYjg2LTQ5NTItYThjMy0xZDgyMThiYWU1NmEiLAogICJjaGFsbGVuZ2VXaW5kb3dTaXplIiA6ICIwMiIKfQ
+ACSTransID=5101b840-bb86-4952-a8c3-1d8218bae56a
+DSTransID=80c7250f-92df-494d-98ee-08ccfce55199
+03-17-2022 @ 15:34:50 - =============================================
+03-17-2022 @ 15:35:44 - 
+03-17-2022 @ 15:35:44 - =============================================
+03-17-2022 @ 15:35:44 - 
+03-17-2022 @ 15:35:44 - SagePay Log
+03-17-2022 @ 15:35:44 - 17 Mar 2022, 15:35:44
+03-17-2022 @ 15:35:44 - 
+03-17-2022 @ 15:35:44 - =============================================
+03-17-2022 @ 15:35:44 - Sent to Opayo : 
+03-17-2022 @ 15:35:44 - Array
+(
+    [DATA] => Array
+        (
+            [CRes] => eyJtZXNzYWdlVHlwZSI6IkNSZXMiLCJtZXNzYWdlVmVyc2lvbiI6IjIuMi4wIiwidGhyZWVEU1NlcnZlclRyYW5zSUQiOiI1Y2E1NGM5ZS0wMGQxLTRiNzUtOTFjOS0xNzdhMjNiNzQ5ZmEiLCJhY3NUcmFuc0lEIjoiNTEwMWI4NDAtYmI4Ni00OTUyLWE4YzMtMWQ4MjE4YmFlNTZhIiwidHJhbnNTdGF0dXMiOiJZIn0
+            [VPSTxId] => {C86E7260-6BCB-371D-14A5-585548F73229}
+        )
+
+    [URL] => https://live.sagepay.com/gateway/service/direct3dcallback.vsp
+)
+
+03-17-2022 @ 15:35:44 - =============================================
+03-17-2022 @ 15:35:45 - =============================================
+03-17-2022 @ 15:35:45 - Opayo Direct Return : 
+03-17-2022 @ 15:35:45 - VPSProtocol=4.00
+Status=OK
+StatusDetail=0000 : The Authorisation was Successful.
+VPSTxId={C86E7260-6BCB-371D-14A5-585548F73229}
+SecurityKey=WZZH3EK3HA
+TxAuthNo=820311742
+AVSCV2=ALL MATCH
+AddressResult=MATCHED
+PostCodeResult=MATCHED
+CV2Result=MATCHED
+3DSecureStatus=OK
+CAVV=AAkBCJNxYgAAAHw4gmB2dQAAAAA=
+DeclineCode=00
+ExpiryDate=0924
+BankAuthCode=017421
+ACSTransID=5101b840-bb86-4952-a8c3-1d8218bae56a
+DSTransID=80c7250f-92df-494d-98ee-08ccfce55199
+SchemeTraceID=482076561442953
+03-17-2022 @ 15:35:45 - =============================================
+03-17-2022 @ 16:13:40 - 
+03-17-2022 @ 16:13:40 - =============================================
+03-17-2022 @ 16:13:40 - 
+03-17-2022 @ 16:13:40 - SagePay Log
+03-17-2022 @ 16:13:40 - 17 Mar 2022, 16:13:40
+03-17-2022 @ 16:13:40 - 
+03-17-2022 @ 16:13:40 - =============================================
+03-17-2022 @ 16:13:40 - Sent to Opayo : 
+03-17-2022 @ 16:13:40 - Array
+(
+    [DATA] => Array
+        (
+            [VPSProtocol] => 4.00
+            [TxType] => PAYMENT
+            [Vendor] => kartingnortheas
+            [VendorTxCode] => kne_wc_62335e3400379-21390-b8ca89e3009a5
+            [Amount] => 118.00
+            [Currency] => GBP
+            [Description] => Order 21390
+            [BillingSurname] => Charlton
+            [BillingFirstnames] => Robert
+            [BillingCompany] => 
+            [BillingAddress1] => Ash vay
+            [BillingAddress2] => 
+            [BillingCity] => Haltwhistle
+            [BillingPostCode] => NE49 9BG
+            [BillingCountry] => GB
+            [BillingState] => 
+            [BillingPhone] => 07583119406
+            [DeliverySurname] => Charlton
+            [DeliveryFirstnames] => Robert
+            [DeliveryAddress1] => Ash vay
+            [DeliveryAddress2] => 
+            [DeliveryCity] => Haltwhistle
+            [DeliveryPostCode] => NE49 9BG
+            [DeliveryCountry] => GB
+            [DeliveryState] => 
+            [DeliveryPhone] => 07583119406
+            [CustomerEMail] => RobCharlton20@gmail.com
+            [ClientIPAddress] => 167.98.9.228
+            [AccountType] => E
+            [ReferrerID] => F4D0E135-F056-449E-99E0-EC59917923E1
+            [Website] => https://kartingnortheast.com
+            [BrowserJavascriptEnabled] => 1
+            [BrowserJavaEnabled] => 0
+            [BrowserColorDepth] => 24
+            [BrowserScreenHeight] => 892
+            [BrowserScreenWidth] => 412
+            [BrowserTZ] => 0
+            [BrowserAcceptHeader] => application/json, text/javascript, */*; q=0.01
+            [BrowserLanguage] => en-GB
+            [BrowserUserAgent] => Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.58 Mobile Safari/537.36
+            [ThreeDSNotificationURL] => https://kartingnortheast.com/checkout/order-pay/21390/?key=wc_order_62335e3400379&threedsecure=kne_wc_62335e3400379-21390-b8ca89e3009a5
+            [ChallengeWindowSize] => 03
+            [TransType] => 01
+            [VendorData] => 
+            [CardHolder] => Robert Charlton
+            [CardNumber] => 4659********8020
+            [ExpiryDate] => 0925
+            [CV2] => ***
+            [CardType] => DELTA
+            [ApplyAVSCV2] => 0
+            [Apply3DSecure] => 0
+        )
+
+    [URL] => https://live.sagepay.com/gateway/service/vspdirect-register.vsp
+)
+
+03-17-2022 @ 16:13:40 - =============================================
+03-17-2022 @ 16:13:41 - =============================================
+03-17-2022 @ 16:13:41 - Opayo Direct Return : 
+03-17-2022 @ 16:13:41 - VPSProtocol=4.00
+Status=OK
+StatusDetail=0000 : The Authorisation was Successful.
+VPSTxId={955CB9E5-0F71-5B07-92B4-108FAADE0590}
+SecurityKey=WPR0EAMLGL
+TxAuthNo=820340061
+AVSCV2=ALL MATCH
+AddressResult=MATCHED
+PostCodeResult=MATCHED
+CV2Result=MATCHED
+3DSecureStatus=OK
+CAVV=AJkBB2VVMQAAAC4YgmB2dQAAAAA=
+DeclineCode=00
+ExpiryDate=0925
+BankAuthCode=037341
+ACSTransID=4e0f9120-7437-4a52-9687-ef2b12baa1a7
+DSTransID=cb5300a9-f5d2-4bc9-84f1-dc4d2b0a67cf
+SchemeTraceID=482076584212254
+03-17-2022 @ 16:13:41 - =============================================

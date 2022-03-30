@@ -1,0 +1,117 @@
+2022-03-23T00:29:41+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php:61
+Stack trace:
+#0 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/base.php(11): include()
+#1 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-includes/template-loader.php(78): include('/mnt/storage/vh...')
+#2 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-blog-header.php(19): require_once('/mnt/storage/vh...')
+#3 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/index.php(17): require('/mnt/storage/vh...')
+#4 {main}
+  thrown in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php on line 61
+
+2022-03-23T14:51:26+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php:61
+Stack trace:
+#0 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/base.php(11): include()
+#1 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-includes/template-loader.php(78): include('/mnt/storage/vh...')
+#2 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-blog-header.php(19): require_once('/mnt/storage/vh...')
+#3 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/index.php(17): require('/mnt/storage/vh...')
+#4 {main}
+  thrown in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php on line 61
+
+2022-03-23T15:58:57+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php:61
+Stack trace:
+#0 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/base.php(11): include()
+#1 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-includes/template-loader.php(78): include('/mnt/storage/vh...')
+#2 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-blog-header.php(19): require_once('/mnt/storage/vh...')
+#3 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/index.php(17): require('/mnt/storage/vh...')
+#4 {main}
+  thrown in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php on line 61
+
+2022-03-23T17:07:44+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php:61
+Stack trace:
+#0 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/base.php(11): include()
+#1 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-includes/template-loader.php(78): include('/mnt/storage/vh...')
+#2 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-blog-header.php(19): require_once('/mnt/storage/vh...')
+#3 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/index.php(17): require('/mnt/storage/vh...')
+#4 {main}
+  thrown in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php on line 61
+
+2022-03-23T17:08:06+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php:61
+Stack trace:
+#0 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/base.php(11): include()
+#1 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-includes/template-loader.php(78): include('/mnt/storage/vh...')
+#2 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-blog-header.php(19): require_once('/mnt/storage/vh...')
+#3 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/index.php(17): require('/mnt/storage/vh...')
+#4 {main}
+  thrown in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php on line 61
+
+2022-03-23T17:39:47+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php:61
+Stack trace:
+#0 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/base.php(11): include()
+#1 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-includes/template-loader.php(78): include('/mnt/storage/vh...')
+#2 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-blog-header.php(19): require_once('/mnt/storage/vh...')
+#3 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/index.php(17): require('/mnt/storage/vh...')
+#4 {main}
+  thrown in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php on line 61
+
+2022-03-23T17:39:48+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php:61
+Stack trace:
+#0 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/base.php(11): include()
+#1 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-includes/template-loader.php(78): include('/mnt/storage/vh...')
+#2 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-blog-header.php(19): require_once('/mnt/storage/vh...')
+#3 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/index.php(17): require('/mnt/storage/vh...')
+#4 {main}
+  thrown in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php on line 61
+
+2022-03-23T21:16:49+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php:61
+Stack trace:
+#0 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/base.php(11): include()
+#1 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-includes/template-loader.php(78): include('/mnt/storage/vh...')
+#2 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-blog-header.php(19): require_once('/mnt/storage/vh...')
+#3 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/index.php(17): require('/mnt/storage/vh...')
+#4 {main}
+  thrown in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php on line 61
+
+2022-03-23T21:21:41+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php:61
+Stack trace:
+#0 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/base.php(11): include()
+#1 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-includes/template-loader.php(78): include('/mnt/storage/vh...')
+#2 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-blog-header.php(19): require_once('/mnt/storage/vh...')
+#3 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/index.php(17): require('/mnt/storage/vh...')
+#4 {main}
+  thrown in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php on line 61
+
+2022-03-23T21:21:53+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php:61
+Stack trace:
+#0 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/base.php(11): include()
+#1 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-includes/template-loader.php(78): include('/mnt/storage/vh...')
+#2 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-blog-header.php(19): require_once('/mnt/storage/vh...')
+#3 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/index.php(17): require('/mnt/storage/vh...')
+#4 {main}
+  thrown in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php on line 61
+
+2022-03-23T21:22:16+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php:61
+Stack trace:
+#0 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/base.php(11): include()
+#1 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-includes/template-loader.php(78): include('/mnt/storage/vh...')
+#2 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-blog-header.php(19): require_once('/mnt/storage/vh...')
+#3 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/index.php(17): require('/mnt/storage/vh...')
+#4 {main}
+  thrown in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php on line 61
+
+2022-03-23T21:22:58+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php:61
+Stack trace:
+#0 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/base.php(11): include()
+#1 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-includes/template-loader.php(78): include('/mnt/storage/vh...')
+#2 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-blog-header.php(19): require_once('/mnt/storage/vh...')
+#3 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/index.php(17): require('/mnt/storage/vh...')
+#4 {main}
+  thrown in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php on line 61
+
+2022-03-23T21:54:43+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php:61
+Stack trace:
+#0 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/base.php(11): include()
+#1 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-includes/template-loader.php(78): include('/mnt/storage/vh...')
+#2 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-blog-header.php(19): require_once('/mnt/storage/vh...')
+#3 /mnt/storage/vhosts/kartingnortheast.com/httpdocs/index.php(17): require('/mnt/storage/vh...')
+#4 {main}
+  thrown in /mnt/storage/vhosts/kartingnortheast.com/httpdocs/wp-content/themes/surge_zero/page-booking.php on line 61
+
